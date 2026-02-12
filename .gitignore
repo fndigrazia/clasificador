@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.claude/
+
+# Archivos de resultados grandes (opcional, sacalos si querés versionarlos)
+results_*.json
+test_*.json

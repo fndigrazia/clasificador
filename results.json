@@ -1,0 +1,350 @@
+[
+  {
+    "url": "https://www.overwolf.com",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB19",
+      "IAB9",
+      "IAB3"
+    ],
+    "site_pagecat": [
+      "IAB19-3",
+      "IAB9-18"
+    ],
+    "site_content_cat": [
+      "IAB19-3",
+      "IAB9-18"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "in-game content creation, game modding, gaming monetization, game development platform, in-game apps, gaming technology, creator fund, video games",
+    "site_content_title": "Overwolf | The guild of in-game creators"
+  },
+  {
+    "url": "https://mail.yahoo.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB19"
+    ],
+    "site_pagecat": [
+      "IAB19-2",
+      "IAB19-3"
+    ],
+    "site_content_cat": [
+      "IAB19-2",
+      "IAB19-3"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Yahoo Mail, email, webmail, email solution, inbox management, email security, AI features, free email",
+    "site_content_title": "Yahoo Mail | Email with smart features and top-notch security"
+  },
+  {
+    "url": "https://mail.aol.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB19"
+    ],
+    "site_pagecat": [
+      "IAB19-3"
+    ],
+    "site_content_cat": [
+      "IAB19-3"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "AOL Mail, email service, webmail, email security, mobile app, internet technology, free email, online communication",
+    "site_content_title": "AOL Mail"
+  },
+  {
+    "url": "https://ads-d.viber.com",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB13",
+      "IAB19"
+    ],
+    "site_pagecat": [
+      "IAB13-2",
+      "IAB13-1",
+      "IAB19-11"
+    ],
+    "site_content_cat": [
+      "IAB13-2",
+      "IAB13-1",
+      "IAB19-11"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Viber Pay, digital payments, personal finance, money transfer, e-banking, mobile wallet, financial management, Viber app",
+    "site_content_title": "Viber Pay: Digital Payments and Personal Finance"
+  },
+  {
+    "url": "https://www.yahoo.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12",
+      "IAB1",
+      "IAB17"
+    ],
+    "site_pagecat": [
+      "IAB12-1",
+      "IAB1-4"
+    ],
+    "site_content_cat": [
+      "IAB12-1",
+      "IAB11",
+      "IAB1-4"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "news, politics, entertainment, celebrity, crime, current events, sports, shopping",
+    "site_content_title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos"
+  },
+  {
+    "url": "https://komonews.com",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12",
+      "IAB11",
+      "IAB17"
+    ],
+    "site_pagecat": [
+      "IAB12-2",
+      "IAB11-4"
+    ],
+    "site_content_cat": [
+      "IAB12-2",
+      "IAB11-4"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Donald Trump, President, White House, Champion of Coal, coal event, politics, national news, US government",
+    "site_content_title": "President Trump Participates in Champion of Coal Event"
+  },
+  {
+    "url": "https://www.ojogodobicho.com/deu_no_poste.htm",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9"
+    ],
+    "site_pagecat": [
+      "IAB9-6"
+    ],
+    "site_content_cat": [
+      "IAB9-6"
+    ],
+    "site_content_language": "pt",
+    "site_content_keywords": "Jogo do Bicho, Deu no Poste, resultados, loteria, apostas, sorteio, Rio de Janeiro, números",
+    "site_content_title": "Resultado Deu no Poste – Jogo do Bicho (RJ) | Atualizado em Quarta-Feira, 11 de Fevereiro de 2026"
+  },
+  {
+    "url": "https://modrinth.com/wrapper/app-ads",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9"
+    ],
+    "site_pagecat": [
+      "IAB9-18",
+      "IAB19-15"
+    ],
+    "site_content_cat": [
+      "IAB19-15",
+      "IAB9-18"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Minecraft mods, game modifications, gaming software, video game enhancements, Fabric, Sodium, Iris Shaders, Modrinth",
+    "site_content_title": "Modrinth"
+  },
+  {
+    "url": "https://sudoku.com/extreme/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9",
+      "IAB1"
+    ],
+    "site_pagecat": [
+      "IAB9-18"
+    ],
+    "site_content_cat": [
+      "IAB9-18"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Sudoku, Extreme Sudoku, puzzle game, brain training, solving strategies, X-Wing, Swordfish, online puzzles",
+    "site_content_title": "Extreme Sudoku - Solve extremely difficult puzzles for free"
+  },
+  {
+    "url": "https://sudoku.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9"
+    ],
+    "site_pagecat": [
+      "IAB9-19"
+    ],
+    "site_content_cat": [
+      "IAB9-19"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Sudoku, puzzle game, online Sudoku, free Sudoku, Sudoku tips, web sudoku, logic puzzle",
+    "site_content_title": "Play Free Sudoku online - solve web sudoku puzzles"
+  },
+  {
+    "url": "https://boldsky.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB18",
+      "IAB7",
+      "IAB14"
+    ],
+    "site_pagecat": [
+      "IAB18-1",
+      "IAB18-2",
+      "IAB1-1"
+    ],
+    "site_content_cat": [
+      "IAB18-1",
+      "IAB18-2",
+      "IAB1-1"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Fashion, Beauty, Celebrity, Lifestyle, Health, Relationships, Horoscopes, Bollywood",
+    "site_content_title": "Lifestyle News, Fashion Trends, Beauty News, Cosmopolitan Living, Fashion Tips - Boldsky.com"
+  },
+  {
+    "url": "https://www.cnn.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12"
+    ],
+    "site_pagecat": [
+      "IAB12-1",
+      "IAB11-4",
+      "IAB12-3"
+    ],
+    "site_content_cat": [
+      "IAB12-1",
+      "IAB11-4",
+      "IAB12-3"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "breaking news, US politics, international relations, Trump, Epstein, Ukraine, current events",
+    "site_content_title": "Breaking News, Latest News and Videos | CNN"
+  },
+  {
+    "url": "https://patch.com",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12"
+    ],
+    "site_pagecat": [
+      "IAB12-3"
+    ],
+    "site_content_cat": [
+      "IAB12-3",
+      "IAB11-1",
+      "IAB12-4"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "local news, community events, breaking news, hyperlocal, local government, crime, U.S. communities",
+    "site_content_title": "Patch - Everything Local: Breaking News, Events, Discussions"
+  },
+  {
+    "url": "https://shiftnews.com/?category=News",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB24"
+    ],
+    "site_pagecat": [
+      "IAB24"
+    ],
+    "site_content_cat": [
+      "IAB24"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "uncategorized, no content, missing data",
+    "site_content_title": "Uncategorized Content - No Data Provided"
+  },
+  {
+    "url": "https://www.ok.de/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB1",
+      "IAB12"
+    ],
+    "site_pagecat": [
+      "IAB1-1",
+      "IAB12-1"
+    ],
+    "site_content_cat": [
+      "IAB1-1"
+    ],
+    "site_content_language": "de",
+    "site_content_keywords": "celebrity news, gossip, entertainment, stars, lifestyle, German celebrities, TV shows, movies",
+    "site_content_title": "OK.de - Celebrity News and Entertainment Magazine"
+  },
+  {
+    "url": "https://sudoku.com/evil/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9"
+    ],
+    "site_pagecat": [
+      "IAB9-18-1"
+    ],
+    "site_content_cat": [
+      "IAB9-18-1"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Sudoku, Evil Sudoku, Master Sudoku, Sudoku strategies, XY-Wing Strategy, brain training, puzzle games, online games",
+    "site_content_title": "Sudoku Evil - Conquer the Master Level of web Sudoku puzzles"
+  },
+  {
+    "url": "https://www.aol.com/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12",
+      "IAB17",
+      "IAB11"
+    ],
+    "site_pagecat": [
+      "IAB12-1",
+      "IAB1-1",
+      "IAB17-1"
+    ],
+    "site_content_cat": [
+      "IAB12-1",
+      "IAB1-1",
+      "IAB17-1"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "news, politics, sports, celebrity news, crime, Winter Olympics, current events, US headlines",
+    "site_content_title": "News, Politics, Sports, Mail & Latest Headlines - AOL.com"
+  },
+  {
+    "url": "https://sudoku.com/postcards/event-sudoku",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB9"
+    ],
+    "site_pagecat": [
+      "IAB9-3"
+    ],
+    "site_content_cat": [
+      "IAB9-3"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "Sudoku, puzzle solving, brainteasers, time-limited challenges, puzzle history, Postcard Events, game strategies",
+    "site_content_title": "Postcard Events – Time-limited Sudoku Challenges"
+  },
+  {
+    "url": "https://jemcastlimited.co.uk/free-tv-licence-for-over-60s-uk/",
+    "scrape_error": null,
+    "site_cat": [
+      "IAB12"
+    ],
+    "site_pagecat": [
+      "IAB12-2"
+    ],
+    "site_content_cat": [
+      "IAB12-2",
+      "IAB2"
+    ],
+    "site_content_language": "en",
+    "site_content_keywords": "UK driving rules, over 70s, licence renewal, road safety, DVLA",
+    "site_content_title": "New UK Driving Rules for Over 70s Announced"
+  }
+]

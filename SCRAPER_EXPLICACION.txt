@@ -1,0 +1,154 @@
+================================================================================
+                    EXPLICACION DE scraper.py
+================================================================================
+
+PROPOSITO GENERAL
+-----------------
+scraper.py es un modulo encargado de descargar paginas web y extraer su
+contenido de forma estructurada (texto, metadatos, idioma). Esta disenado
+para ser utilizado como parte de un pipeline de clasificacion de URLs.
+
+No lanza excepciones: siempre devuelve un diccionario con los resultados
+o con un campo "error" describiendo el problema.
+
+
+================================================================================
+DEPENDENCIAS
+================================================================================
+
+- threading        : modulo estandar de Python para ejecutar scraping con timeout.
+- trafilatura      : libreria para descargar paginas web y extraer texto limpio
+                     (elimina navegacion, ads, footers, etc).
+- beautifulsoup4   : parser HTML para extraer metadatos (title, description, etc).
+- langdetect       : deteccion automatica del idioma a partir del texto extraido.
+
+
+================================================================================
+FUNCIONES EN DETALLE
+================================================================================
+
+1. normalize_url(raw: str) -> str | None                          [linea 7-14]
+   ---------------------------------------------------------------------------
+   Recibe una linea cruda de texto (tipicamente leida de un archivo) y la
+   normaliza para que sea una URL valida.
+
+   Pasos:
+   - Elimina espacios y comillas alrededor del texto.
+   - Si la URL es vacia o invalida (ej: solo "https://"), retorna None.
+   - Si no tiene esquema (http/https), le agrega "https://" por defecto.
+   - Retorna la URL normalizada.
+
+   Ejemplo:
+     normalize_url('  "example.com"  ')  ->  "https://example.com"
+     normalize_url("https://")           ->  None
+
+
+2. _extract_metadata(html: str) -> dict                          [linea 17-53]
+   ---------------------------------------------------------------------------
+   Funcion interna que recibe el HTML crudo de una pagina y extrae los
+   siguientes metadatos usando BeautifulSoup:
+
+   - title           : contenido del tag <title>.
+   - description     : contenido del meta tag <meta name="description">.
+   - meta_keywords   : contenido del meta tag <meta name="keywords">.
+   - og_tags         : diccionario con todos los Open Graph tags
+                       (ej: og:title, og:description, og:image).
+                       Busca tags <meta property="og:*">.
+   - language_hint   : idioma declarado en el atributo "lang" del tag <html>.
+                       Solo toma la parte principal (ej: "en-US" -> "en").
+
+   Retorna un diccionario con estos 5 campos. Los valores son None si no
+   se encontraron en el HTML.
+
+
+3. _scrape_with_timeout(url, timeout, result)                    [linea 56-78]
+   ---------------------------------------------------------------------------
+   Funcion interna que ejecuta el scraping completo de una URL. Se ejecuta
+   dentro de un thread separado para poder aplicar un timeout.
+
+   Flujo:
+   a) Descarga el HTML de la URL usando trafilatura.fetch_url().
+      Si falla -> escribe error "Failed to download URL" en result.
+
+   b) Extrae los metadatos del HTML con _extract_metadata() y los
+      agrega al diccionario result.
+
+   c) Extrae el texto principal del HTML con trafilatura.extract().
+      Este paso elimina boilerplate (menus, footers, sidebars) y devuelve
+      solo el contenido relevante. Se trunca a 4000 caracteres maximo
+      para limitar el uso de memoria/tokens.
+
+   d) Si no se detecto idioma en el tag <html> pero hay texto extraido,
+      usa langdetect.detect() para inferir el idioma del contenido.
+
+   e) Cualquier excepcion se captura y se guarda en result["error"].
+
+
+4. scrape_url(url: str, timeout: int = 15) -> dict               [linea 81-107]
+   ---------------------------------------------------------------------------
+   FUNCION PUBLICA PRINCIPAL. Es el punto de entrada del modulo.
+
+   Parametros:
+   - url     : la URL a scrapear.
+   - timeout : tiempo maximo en segundos (por defecto 15s).
+
+   Flujo:
+   a) Inicializa un diccionario "result" con todos los campos en None/vacio.
+      Campos: url, title, description, og_tags, meta_keywords,
+              text_content, language_hint, error.
+
+   b) Lanza un thread que ejecuta _scrape_with_timeout().
+
+   c) Espera a que el thread termine con thread.join(timeout).
+
+   d) Si el thread sigue vivo despues del timeout, marca el error como
+      "Timed out after Xs". NOTA: el thread sigue corriendo en background
+      pero el resultado ya se devuelve con el error de timeout.
+
+   e) Retorna el diccionario result. Nunca lanza excepciones.
+
+
+================================================================================
+ESTRUCTURA DEL RESULTADO
+================================================================================
+
+La funcion scrape_url() siempre devuelve un diccionario con esta forma:
+
+{
+    "url":            str,          # La URL que se scrapeo
+    "title":          str | None,   # Titulo de la pagina (<title>)
+    "description":    str | None,   # Meta description
+    "og_tags":        dict,         # Open Graph tags (puede estar vacio {})
+    "meta_keywords":  str | None,   # Meta keywords
+    "text_content":   str | None,   # Texto principal (max 4000 chars)
+    "language_hint":  str | None,   # Idioma detectado (ej: "es", "en")
+    "error":          str | None,   # Mensaje de error si hubo alguno
+}
+
+
+================================================================================
+PATRON DE DISENO: TIMEOUT CON THREADS
+================================================================================
+
+El modulo usa un patron interesante para manejar timeouts:
+
+1. Crea un thread que hace el trabajo real (descarga + extraccion).
+2. El thread escribe sus resultados en un diccionario compartido (result).
+3. El hilo principal espera con thread.join(timeout=N).
+4. Si pasa el tiempo, no mata el thread (Python no puede matar threads),
+   pero marca el error y devuelve el resultado parcial.
+
+Esto es util porque trafilatura.fetch_url() puede bloquearse en URLs
+lentas o no responsivas, y este mecanismo evita que todo el programa
+se quede colgado esperando.
+
+
+================================================================================
+FLUJO TIPICO DE USO
+================================================================================
+
+1. Se lee una URL de un archivo de entrada.
+2. Se normaliza con normalize_url().
+3. Se scrapea con scrape_url().
+4. El resultado (texto + metadatos) se usa para clasificar la pagina
+   (probablemente en otro modulo del proyecto "clasificador").
