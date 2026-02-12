@@ -54,7 +54,7 @@ def create_provider(args):
         return GroqProvider(api_key=api_key, model=model)
     else:
         model = args.model or "llama3"
-        return OllamaProvider(base_url=args.ollama_url, model=model)
+        return OllamaProvider(base_url=args.ollama_url, model=model, use_short_prompt=args.short_prompt)
 
 
 def parse_args():
@@ -104,6 +104,10 @@ def parse_args():
     parser.add_argument(
         "--workers", type=int, default=1,
         help="Number of parallel workers (default: 1)"
+    )
+    parser.add_argument(
+        "--short-prompt", action="store_true",
+        help="Use short prompt (for Ollama models with taxonomy in Modelfile system prompt)"
     )
     return parser.parse_args()
 

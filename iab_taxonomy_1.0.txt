@@ -1,0 +1,421 @@
+IAB Tech Lab Content Taxonomy 1.0 - Complete Reference with Descriptions and Keywords
+=======================================================================================
+
+IAB1: Arts & Entertainment - Content about artistic and entertainment topics including movies, music, TV, books, and performing arts
+  IAB1-1: Books & Literature - Books, novels, authors, literary reviews, poetry, publishing, bestsellers, reading lists
+  IAB1-2: Celebrity Fan/Gossip - Celebrity news, fan sites, gossip columns, paparazzi, red carpet, celebrity lifestyle, tabloid
+  IAB1-3: Fine Art - Galleries, museums, sculptures, exhibitions, art collections, contemporary art, paintings, art auctions
+  IAB1-4: Humor - Comedy, jokes, satire, memes, funny content, stand-up comedy, parody, comic strips
+  IAB1-5: Movies - Films, cinema, movie reviews, box office, directors, actors, film festivals, streaming movies
+  IAB1-6: Music - Songs, albums, artists, concerts, music reviews, genres, music streaming, playlists, bands
+  IAB1-7: Television - TV shows, series, streaming, episodes, sitcoms, dramas, reality TV, TV networks, binge-watching
+
+IAB2: Automotive - Content about cars, trucks, motorcycles, vehicle maintenance, and the automotive industry
+  IAB2-1: Auto Parts - Car parts, replacement parts, OEM, aftermarket, spark plugs, brakes, filters, engine components
+  IAB2-2: Auto Repair - Car repair, mechanic, maintenance, oil change, diagnostics, garage, service center, tune-up
+  IAB2-3: Buying/Selling Cars - Car dealership, used cars, new cars, trade-in, car listings, vehicle pricing, auto sales
+  IAB2-4: Car Culture - Car enthusiasts, car shows, custom cars, car clubs, automotive lifestyle, car meets, gearheads
+  IAB2-5: Certified Pre-Owned - CPO vehicles, certified used cars, manufacturer warranty, pre-owned programs, inspected vehicles
+  IAB2-6: Convertible - Convertible cars, drop-top, cabriolet, roadster, open-top vehicles, retractable roof
+  IAB2-7: Coupe - Coupe models, two-door cars, sport coupe, grand touring, fastback, hardtop coupe
+  IAB2-8: Crossover - Crossover SUV, compact crossover, midsize crossover, CUV, crossover vehicles, versatile vehicles
+  IAB2-9: Diesel - Diesel engines, diesel trucks, diesel fuel, torque, fuel economy, diesel technology, turbo diesel
+  IAB2-10: Electric Vehicle - EV, electric cars, Tesla, charging stations, battery range, zero emissions, plug-in electric
+  IAB2-11: Hatchback - Hatchback cars, compact hatchback, hot hatch, five-door, liftback, subcompact
+  IAB2-12: Hybrid - Hybrid vehicles, plug-in hybrid, PHEV, fuel efficiency, hybrid technology, gas-electric, eco-friendly
+  IAB2-13: Luxury - Luxury cars, premium vehicles, Mercedes, BMW, Lexus, high-end autos, luxury sedans, prestige brands
+  IAB2-14: MiniVan - Minivans, family vehicles, passenger van, sliding doors, cargo space, MPV, family transport
+  IAB2-15: Motorcycles - Motorcycles, bikes, riders, Harley-Davidson, sportbikes, cruisers, motorbike gear, helmets
+  IAB2-16: Off-Road Vehicles - Off-road, 4x4, Jeep, trail riding, ATV, all-terrain, rock crawling, mud trucks
+  IAB2-17: Performance Vehicles - Sports cars, supercars, horsepower, turbo, performance tuning, race-inspired, speed
+  IAB2-18: Pickup - Pickup trucks, truck beds, towing capacity, crew cab, full-size truck, work trucks, payload
+  IAB2-19: Road-Side Assistance - Roadside help, towing service, AAA, flat tire, jump start, emergency breakdown, lockout
+  IAB2-20: Sedan - Sedan models, four-door, midsize sedan, compact sedan, full-size sedan, family car, commuter
+  IAB2-21: Trucks & Accessories - Truck accessories, truck caps, bed liners, toolboxes, lift kits, grille guards, tonneau covers
+  IAB2-22: Vintage Cars - Classic cars, antique vehicles, restoration, vintage auto shows, collector cars, retro automobiles
+  IAB2-23: Wagon - Station wagons, estate cars, sport wagon, touring wagon, long roof, wagon models
+
+IAB3: Business - Content about business operations, industries, corporate news, and professional services
+  IAB3-1: Advertising - Ad campaigns, media buying, brand awareness, ad agencies, creative advertising, digital ads, CPM
+  IAB3-2: Agriculture - Farming, crops, livestock, agribusiness, agricultural equipment, harvest, irrigation, rural economy
+  IAB3-3: Biotech/Biomedical - Biotechnology, biomedical research, pharmaceuticals, gene therapy, clinical trials, life sciences
+  IAB3-4: Business Software - Enterprise software, ERP, CRM, SaaS, business tools, productivity software, workflow automation
+  IAB3-5: Construction - Construction industry, building, contractors, heavy equipment, project management, civil engineering
+  IAB3-6: Forestry - Forestry industry, timber, logging, paper mills, reforestation, forest management, wood products
+  IAB3-7: Government - Government agencies, public sector, federal contracts, regulations, civic administration, policy
+  IAB3-8: Green Solutions - Sustainability, green business, eco-friendly products, clean energy, carbon footprint, renewable
+  IAB3-9: Human Resources - HR management, hiring, recruitment, employee benefits, payroll, workplace culture, talent acquisition
+  IAB3-10: Logistics - Supply chain, shipping, freight, warehousing, distribution, transportation management, fulfillment
+  IAB3-11: Marketing - Marketing strategy, digital marketing, SEO, content marketing, brand management, market research, campaigns
+  IAB3-12: Metals - Metal industry, steel, aluminum, mining, smelting, metallurgy, precious metals, metal fabrication
+
+IAB4: Careers - Content about employment, job hunting, professional development, and workforce topics
+  IAB4-1: Career Planning - Career paths, professional goals, career development, mentorship, career change, industry outlook
+  IAB4-2: College - College admissions, university life, campus, higher education, enrollment, degree programs, tuition
+  IAB4-3: Financial Aid - Student loans, grants, FAFSA, tuition assistance, work-study, financial aid applications, student debt
+  IAB4-4: Job Fairs - Career fairs, hiring events, recruitment events, employer booths, networking events, job expos
+  IAB4-5: Job Search - Job listings, job boards, employment search, hiring, openings, Indeed, LinkedIn jobs, applications
+  IAB4-6: Resume Writing/Advice - Resume tips, CV writing, cover letters, portfolio, LinkedIn profile, job interview prep
+  IAB4-7: Nursing - Nursing careers, RN, LPN, nursing school, healthcare jobs, nurse practitioner, clinical nursing
+  IAB4-8: Scholarships - Scholarship programs, merit awards, academic grants, fellowship, tuition scholarships, financial awards
+  IAB4-9: Telecommuting - Remote work, work from home, virtual office, distributed teams, remote jobs, flexible work, WFH
+  IAB4-10: U.S. Military - Military careers, enlistment, veterans, armed forces, military benefits, GI Bill, defense jobs
+  IAB4-11: Career Advice - Professional tips, workplace guidance, career coaching, salary negotiation, promotion strategies
+
+IAB5: Education - Content about learning, academic institutions, teaching methods, and educational resources
+  IAB5-1: 7-12 Education - Middle school, high school, secondary education, teen students, SAT prep, AP classes, curriculum
+  IAB5-2: Adult Education - Continuing education, adult learners, professional development, lifelong learning, GED, night classes
+  IAB5-3: Art History - Art movements, art periods, Renaissance, Impressionism, art historians, museum studies, cultural heritage
+  IAB5-4: College Administration - University management, academic administration, enrollment management, campus operations, dean
+  IAB5-5: College Life - Campus culture, dorm life, student organizations, Greek life, college social life, student activities
+  IAB5-6: Distance Learning - Online courses, e-learning, virtual classrooms, MOOC, remote education, online degrees, Coursera
+  IAB5-7: English as a 2nd Language - ESL, TEFL, English learners, language immersion, TOEFL, ELL programs, ESL classes
+  IAB5-8: Language Learning - Foreign languages, language courses, Duolingo, Rosetta Stone, bilingual, multilingual, translation
+  IAB5-9: Graduate School - Master's degree, PhD, doctoral programs, thesis, graduate admissions, postgraduate, research programs
+  IAB5-10: Homeschooling - Home education, homeschool curriculum, unschooling, homeschool co-ops, parent-led education
+  IAB5-11: Homework/Study Tips - Study guides, homework help, tutoring, study habits, test preparation, academic success, flashcards
+  IAB5-12: K-6 Educators - Elementary teachers, primary education, teaching resources, lesson plans, classroom management, early education
+  IAB5-13: Private School - Independent schools, prep schools, boarding schools, tuition-based education, Montessori, charter
+  IAB5-14: Special Education - Special needs education, IEP, learning disabilities, inclusive education, adaptive learning, therapy
+  IAB5-15: Studying Business - Business school, MBA, business degree, management studies, entrepreneurship courses, case studies
+
+IAB6: Family & Parenting - Content about family life, raising children, and parenting resources
+  IAB6-1: Adoption - Child adoption, adoption agencies, foster care, international adoption, adoption process, adoptive families
+  IAB6-2: Babies & Toddlers - Newborns, infant care, baby products, toddler development, nursery, diapers, breastfeeding, strollers
+  IAB6-3: Daycare/Pre School - Childcare, preschool programs, early childhood education, nursery school, daycare centers, pre-K
+  IAB6-4: Family Internet - Online safety for kids, parental controls, screen time, digital parenting, family-friendly websites
+  IAB6-5: Parenting - K-6 Kids - School-age children, elementary parenting, after-school activities, discipline, child behavior
+  IAB6-6: Parenting Teens - Teenage parenting, adolescent behavior, teen communication, driving permits, teen independence
+  IAB6-7: Pregnancy - Expecting mothers, prenatal care, maternity, childbirth, baby bump, trimesters, pregnancy tips, midwife
+  IAB6-8: Special Needs Kids - Children with disabilities, special needs parenting, autism support, therapy, accessibility, inclusion
+  IAB6-9: Eldercare - Senior care, aging parents, assisted living, home care, caregiver support, geriatric care, nursing homes
+
+IAB7: Health & Fitness - Content about physical health, medical conditions, fitness, wellness, and healthcare
+  IAB7-1: Exercise - Workouts, fitness routines, cardio, strength training, gym, aerobics, exercise plans, physical activity
+  IAB7-2: A.D.D. - Attention deficit disorder, ADHD, focus, hyperactivity, stimulant medication, behavioral therapy, concentration
+  IAB7-3: AIDS/HIV - HIV prevention, AIDS treatment, antiretroviral therapy, HIV testing, immune deficiency, safe practices
+  IAB7-4: Allergies - Allergic reactions, allergens, antihistamines, hay fever, food allergies, allergy testing, seasonal allergies
+  IAB7-5: Alternative Medicine - Holistic health, acupuncture, naturopathy, herbal remedies, chiropractic, homeopathy, Ayurveda
+  IAB7-6: Arthritis - Joint pain, rheumatoid arthritis, osteoarthritis, inflammation, joint stiffness, arthritis treatment, mobility
+  IAB7-7: Asthma - Asthma attacks, inhaler, bronchial, respiratory, wheezing, asthma medication, breathing difficulties, triggers
+  IAB7-8: Autism/PDD - Autism spectrum disorder, ASD, pervasive developmental disorder, Asperger's, sensory processing, ABA therapy
+  IAB7-9: Bipolar Disorder - Mood swings, manic depression, bipolar treatment, mood stabilizers, mania, depressive episodes
+  IAB7-10: Brain Tumor - Brain cancer, glioma, neurosurgery, brain tumor treatment, oncology, MRI diagnosis, brain lesions
+  IAB7-11: Cancer - Oncology, chemotherapy, radiation, tumor, cancer treatment, remission, carcinoma, cancer screening, biopsy
+  IAB7-12: Cholesterol - High cholesterol, LDL, HDL, statins, cholesterol levels, lipid profile, heart health, triglycerides
+  IAB7-13: Chronic Fatigue Syndrome - CFS, persistent fatigue, myalgic encephalomyelitis, exhaustion, energy levels, ME/CFS
+  IAB7-14: Chronic Pain - Pain management, fibromyalgia, neuropathy, long-term pain, pain relief, pain medication, chronic conditions
+  IAB7-15: Cold & Flu - Common cold, influenza, flu season, cold remedies, flu vaccine, cough, congestion, fever, sore throat
+  IAB7-16: Deafness - Hearing loss, hearing aids, cochlear implants, deaf community, sign language, audiology, hearing impairment
+  IAB7-17: Dental Care - Dentistry, teeth, oral hygiene, dental checkup, braces, teeth whitening, cavities, gum disease, dentist
+  IAB7-18: Depression - Clinical depression, antidepressants, mental health, sadness, therapy, mood disorder, emotional wellbeing
+  IAB7-19: Dermatology - Skin care, dermatologist, eczema, psoriasis, acne treatment, skin conditions, rashes, skincare routines
+  IAB7-20: Diabetes - Blood sugar, insulin, type 1 diabetes, type 2 diabetes, glucose monitoring, diabetic diet, A1C levels
+  IAB7-21: Epilepsy - Seizures, epileptic episodes, anticonvulsants, neurological disorder, seizure management, brain activity
+  IAB7-22: GERD/Acid Reflux - Heartburn, acid reflux, gastroesophageal reflux, antacids, esophagus, stomach acid, indigestion
+  IAB7-23: Headaches/Migraines - Migraine relief, headache triggers, tension headaches, cluster headaches, migraine medication
+  IAB7-24: Heart Disease - Cardiovascular disease, heart attack, coronary artery, cardiac health, hypertension, heart failure
+  IAB7-25: Herbs for Health - Herbal supplements, medicinal herbs, echinacea, ginseng, turmeric, herbal tea, plant-based remedies
+  IAB7-26: Holistic Healing - Mind-body healing, energy healing, Reiki, meditation, holistic wellness, spiritual health, chakras
+  IAB7-27: IBS/Crohn's Disease - Irritable bowel syndrome, Crohn's, inflammatory bowel disease, gut health, digestive disorders
+  IAB7-28: Incest/Abuse Support - Abuse recovery, trauma support, survivor resources, counseling, domestic violence, helplines
+  IAB7-29: Incontinence - Bladder control, urinary incontinence, pelvic floor, adult diapers, bladder health, overactive bladder
+  IAB7-30: Infertility - Fertility treatments, IVF, reproductive health, conception difficulties, fertility clinics, assisted reproduction
+  IAB7-31: Men's Health - Male wellness, prostate health, testosterone, men's fitness, erectile dysfunction, male grooming
+  IAB7-32: Nutrition - Diet, vitamins, minerals, balanced diet, nutritional supplements, macronutrients, healthy eating, calories
+  IAB7-33: Orthopedics - Bone health, joint replacement, orthopedic surgery, fractures, sports injuries, musculoskeletal, spine
+  IAB7-34: Panic/Anxiety Disorders - Anxiety attacks, panic disorder, generalized anxiety, social anxiety, phobias, stress management
+  IAB7-35: Pediatrics - Child health, pediatrician, childhood illnesses, vaccinations, growth development, children's medicine
+  IAB7-36: Physical Therapy - Rehabilitation, physiotherapy, recovery exercises, mobility therapy, sports rehab, PT exercises
+  IAB7-37: Psychology/Psychiatry - Mental health treatment, psychotherapy, counseling, behavioral health, psychiatric medication
+  IAB7-38: Senior Health - Elderly health, aging, geriatric medicine, age-related conditions, senior wellness, longevity
+  IAB7-39: Sexuality - Sexual health, intimacy, sexual education, reproductive health, libido, sexual wellness, contraception
+  IAB7-40: Sleep Disorders - Insomnia, sleep apnea, narcolepsy, sleep hygiene, restless legs, melatonin, sleep quality
+  IAB7-41: Smoking Cessation - Quit smoking, nicotine patches, smoking alternatives, tobacco cessation, vaping, lung health
+  IAB7-42: Substance Abuse - Drug addiction, alcoholism, rehabilitation, recovery programs, 12-step, detox, sobriety, rehab
+  IAB7-43: Thyroid Disease - Hypothyroidism, hyperthyroidism, thyroid medication, thyroid hormones, goiter, Hashimoto's, TSH
+  IAB7-44: Weight Loss - Dieting, weight management, calorie counting, fat loss, weight loss programs, body transformation, BMI
+  IAB7-45: Women's Health - Female wellness, gynecology, menopause, mammogram, reproductive health, women's fitness, hormones
+
+IAB8: Food & Drink - Content about cooking, recipes, restaurants, beverages, and culinary topics
+  IAB8-1: American Cuisine - American food, burgers, BBQ, soul food, comfort food, Southern cooking, diner classics, apple pie
+  IAB8-2: Barbecues & Grilling - Grilling recipes, BBQ techniques, smoker, charcoal, ribs, brisket, outdoor cooking, marinades
+  IAB8-3: Cajun/Creole - Cajun food, Creole cooking, gumbo, jambalaya, New Orleans cuisine, crawfish, Bayou recipes, roux
+  IAB8-4: Chinese Cuisine - Chinese food, dim sum, stir-fry, wok cooking, dumplings, Szechuan, Cantonese, noodles, fried rice
+  IAB8-5: Cocktails/Beer - Alcoholic beverages, craft beer, cocktail recipes, mixology, breweries, spirits, bartending, IPA
+  IAB8-6: Coffee/Tea - Coffee brewing, tea varieties, espresso, latte, cafe, barista, coffee beans, green tea, herbal tea
+  IAB8-7: Cuisine-Specific - Ethnic cuisine, regional food, international recipes, traditional dishes, cultural cooking, fusion
+  IAB8-8: Desserts & Baking - Cakes, cookies, pastries, baking recipes, chocolate, bread baking, pies, cupcakes, confections
+  IAB8-9: Dining Out - Restaurants, restaurant reviews, dining guide, reservations, food critics, eateries, fine dining, takeout
+  IAB8-10: Food Allergies - Gluten-free, nut-free, dairy-free, allergen labeling, food intolerance, celiac, allergy-safe recipes
+  IAB8-11: French Cuisine - French food, bistro, croissants, coq au vin, French pastry, baguette, haute cuisine, souffles
+  IAB8-12: Health/Lowfat Cooking - Healthy recipes, low-calorie meals, clean eating, low-fat, whole foods, meal prep, portion control
+  IAB8-13: Italian Cuisine - Italian food, pasta, pizza, risotto, Italian recipes, marinara, antipasto, gelato, Tuscan cooking
+  IAB8-14: Japanese Cuisine - Japanese food, sushi, ramen, tempura, Japanese recipes, bento, miso, sake, teriyaki, udon
+  IAB8-15: Mexican Cuisine - Mexican food, tacos, enchiladas, salsa, guacamole, Mexican recipes, burritos, tortillas, mole
+  IAB8-16: Vegan - Vegan diet, plant-based meals, vegan recipes, no animal products, vegan lifestyle, dairy-free, egg-free
+  IAB8-17: Vegetarian - Vegetarian diet, meatless meals, vegetarian recipes, meat-free, lacto-ovo, vegetarian lifestyle, tofu
+  IAB8-18: Wine - Wine tasting, vineyards, wine regions, sommelier, red wine, white wine, wine pairing, winery, vintage
+
+IAB9: Hobbies & Interests - Content about recreational activities, crafts, games, and personal interests
+  IAB9-1: Art/Technology - Digital art, creative technology, art software, tech-driven art, generative art, creative tools
+  IAB9-2: Arts & Crafts - DIY crafts, handmade projects, crafting supplies, creative hobbies, paper crafts, craft tutorials
+  IAB9-3: Beadwork - Beading, bead jewelry, bead patterns, bead weaving, bead supplies, seed beads, bead crafts, lampwork
+  IAB9-4: Birdwatching - Bird spotting, birding, bird identification, bird habitats, birdwatching gear, ornithology, bird species
+  IAB9-5: Board Games/Puzzles - Board games, jigsaw puzzles, tabletop games, strategy games, crossword puzzles, Sudoku, trivia
+  IAB9-6: Candle & Soap Making - Handmade candles, soap crafting, wax melts, candle supplies, soap molds, fragrance oils, DIY soap
+  IAB9-7: Card Games - Playing cards, poker, bridge, card game rules, collectible card games, card tricks, solitaire, blackjack
+  IAB9-8: Chess - Chess strategy, chess openings, chess tournaments, chess puzzles, grandmaster, chess boards, chess online
+  IAB9-9: Cigars - Cigar reviews, cigar brands, humidors, cigar smoking, cigar culture, premium cigars, cigar accessories
+  IAB9-10: Collecting - Collectibles, antiques, memorabilia, figurines, sports cards, vintage items, collector editions, rarities
+  IAB9-11: Comic Books - Comics, graphic novels, manga, superhero comics, comic book publishers, DC, Marvel, comic conventions
+  IAB9-12: Drawing/Sketching - Pencil drawing, sketching techniques, illustration, charcoal, figure drawing, art tutorials, sketchbook
+  IAB9-13: Freelance Writing - Freelance author, content writing, copywriting, freelance gigs, writing income, article writing
+  IAB9-14: Genealogy - Family history, ancestry, DNA testing, family tree, heritage, genealogical records, lineage, 23andMe
+  IAB9-15: Getting Published - Publishing tips, manuscript submission, literary agents, self-publishing, book deals, query letters
+  IAB9-16: Guitar - Guitar playing, guitar lessons, chords, acoustic guitar, electric guitar, guitar tabs, guitar gear, riffs
+  IAB9-17: Home Recording - Home studio, recording equipment, audio mixing, DAW, microphones, soundproofing, music production
+  IAB9-18: Investors & Patents - Inventions, patent filing, intellectual property, inventors, patent applications, innovation, IP law
+  IAB9-19: Jewelry Making - Handmade jewelry, jewelry crafts, wire wrapping, silversmithing, gemstones, jewelry supplies, beaded jewelry
+  IAB9-20: Magic & Illusion - Magic tricks, illusionists, card tricks, stage magic, sleight of hand, magician, illusion shows
+  IAB9-21: Needlework - Knitting, crocheting, embroidery, cross-stitch, sewing, needlepoint, yarn, quilting, textile crafts
+  IAB9-22: Painting - Watercolor, oil painting, acrylic painting, canvas, painting techniques, paint supplies, art studio
+  IAB9-23: Photography - Camera, DSLR, photo editing, photography tips, portrait, landscape photography, Lightroom, photo gallery
+  IAB9-24: Radio - AM/FM radio, internet radio, radio stations, podcast, radio shows, broadcasting, ham radio, radio streaming
+  IAB9-25: Roleplaying Games - RPG, Dungeons & Dragons, tabletop RPG, character sheets, campaigns, game master, LARP, dice
+  IAB9-26: Sci-Fi & Fantasy - Science fiction, fantasy novels, sci-fi movies, space opera, dragons, dystopian, fantasy worlds
+  IAB9-27: Scrapbooking - Scrapbook layouts, memory keeping, scrapbook supplies, photo albums, paper crafts, embellishments
+  IAB9-28: Screenwriting - Script writing, screenplay format, film scripts, dialogue writing, story structure, screenwriting contests
+  IAB9-29: Stamps & Coins - Stamp collecting, coin collecting, philately, numismatics, rare coins, postage stamps, coin grading
+  IAB9-30: Video & Computer Games - Video games, gaming, PC games, console games, game reviews, esports, game streaming, PlayStation, Xbox
+  IAB9-31: Woodworking - Carpentry, wood projects, woodworking tools, furniture making, joinery, woodturning, woodcraft, sawing
+
+IAB10: Home & Garden - Content about home improvement, decorating, gardening, and household topics
+  IAB10-1: Appliances - Home appliances, kitchen appliances, washer, dryer, refrigerator, dishwasher, appliance reviews, smart home
+  IAB10-2: Entertaining - Home entertaining, hosting parties, dinner parties, table settings, event planning, home gatherings
+  IAB10-3: Environmental Safety - Home safety, radon, lead paint, mold removal, carbon monoxide, water quality, air quality, asbestos
+  IAB10-4: Gardening - Garden plants, flower beds, vegetable garden, composting, seed starting, garden tools, pruning, soil
+  IAB10-5: Home Repair - DIY repair, plumbing, electrical, fixing, handyman, maintenance, home fix, repair guides, tools
+  IAB10-6: Home Theater - Home cinema, surround sound, projectors, speaker systems, media room, AV equipment, 4K TV, streaming setup
+  IAB10-7: Interior Decorating - Home decor, interior design, furniture, room design, wall art, color schemes, curtains, rugs
+  IAB10-8: Landscaping - Lawn care, landscape design, hardscaping, outdoor living, patio, yard maintenance, trees, shrubs, mulch
+  IAB10-9: Remodeling & Construction - Home renovation, kitchen remodel, bathroom remodel, room additions, flooring, countertops
+
+IAB11: Law, Gov't & Politics - Content about legal matters, government, and political topics
+  IAB11-1: Immigration - Immigration law, visas, green card, citizenship, deportation, asylum, immigration policy, border
+  IAB11-2: Legal Issues - Legal advice, lawsuits, court cases, attorneys, litigation, civil law, criminal law, legal rights
+  IAB11-3: U.S. Government Resources - Federal agencies, government services, public records, FOIA, government benefits, civic info
+  IAB11-4: Politics - Political news, elections, campaigns, Congress, political parties, policy debate, political analysis, voting
+  IAB11-5: Commentary - Political opinion, editorial, op-ed, punditry, political commentary, media analysis, debate, columnists
+
+IAB12: News - Content about current events, breaking news, and journalism across different scopes
+  IAB12-1: International News - World news, global events, foreign affairs, international politics, overseas reporting, global crisis
+  IAB12-2: National News - Domestic news, national events, federal government, national politics, countrywide reporting, headlines
+  IAB12-3: Local News - Community news, city news, regional reporting, local government, neighborhood, local events, town council
+
+IAB13: Personal Finance - Content about managing money, investments, banking, insurance, and financial planning
+  IAB13-1: Beginning Investing - Investment basics, how to invest, stocks for beginners, first portfolio, investment 101, starter funds
+  IAB13-2: Credit/Debt & Loans - Credit cards, personal loans, debt management, credit score, mortgage, student loans, borrowing
+  IAB13-3: Financial News - Market news, financial reports, economic updates, Wall Street, stock market news, financial analysis
+  IAB13-4: Financial Planning - Budgeting, savings plan, financial advisor, estate planning, wealth management, money goals
+  IAB13-5: Hedge Fund - Hedge funds, alternative investments, fund managers, institutional investing, private equity, fund strategies
+  IAB13-6: Insurance - Life insurance, health insurance, auto insurance, homeowner insurance, insurance quotes, coverage, premiums
+  IAB13-7: Investing - Investment strategies, portfolio management, asset allocation, dividends, capital gains, market analysis
+  IAB13-8: Mutual Funds - Fund performance, index funds, fund managers, NAV, fund prospectus, diversified funds, Vanguard, Fidelity
+  IAB13-9: Options - Stock options, options trading, puts, calls, derivatives, options strategies, strike price, expiration
+  IAB13-10: Retirement Planning - 401k, IRA, pension, retirement savings, Social Security, retirement age, nest egg, annuities
+  IAB13-11: Stocks - Stock market, stock trading, shares, stock analysis, earnings, IPO, dividends, market cap, NASDAQ, NYSE
+  IAB13-12: Tax Planning - Tax preparation, tax deductions, IRS, tax filing, tax return, tax brackets, accountant, tax strategies
+
+IAB14: Society - Content about social relationships, dating, community life, and societal topics
+  IAB14-1: Dating - Online dating, dating apps, relationships, matchmaking, singles, dating advice, Tinder, first dates, romance
+  IAB14-2: Divorce Support - Divorce process, separation, custody, divorce attorney, co-parenting, divorce recovery, alimony
+  IAB14-3: Gay Life - LGBTQ community, gay rights, pride, same-sex relationships, LGBTQ culture, coming out, queer identity
+  IAB14-4: Marriage - Married life, marriage advice, couples, relationship counseling, anniversary, partnership, marital issues
+  IAB14-5: Senior Living - Retirement communities, senior housing, active adult, assisted living, 55+ communities, elder lifestyle
+  IAB14-6: Teens - Teenage life, teen culture, adolescence, teen social issues, teen trends, youth, teenage interests, high school
+  IAB14-7: Weddings - Wedding planning, bridal, ceremony, reception, wedding venues, wedding dresses, bridesmaids, honeymoon
+  IAB14-8: Ethnic Specific - Cultural communities, ethnic heritage, multicultural, cultural identity, diaspora, ethnic traditions
+
+IAB15: Science - Content about scientific disciplines, research, discoveries, and natural phenomena
+  IAB15-1: Astrology - Horoscopes, zodiac signs, birth charts, astrological readings, star signs, planetary alignment, tarot
+  IAB15-2: Biology - Life sciences, genetics, evolution, microbiology, ecology, organisms, cell biology, molecular biology
+  IAB15-3: Chemistry - Chemical elements, reactions, periodic table, organic chemistry, lab experiments, compounds, molecular science
+  IAB15-4: Geology - Earth science, rocks, minerals, fossils, earthquakes, volcanoes, plate tectonics, geological formations
+  IAB15-5: Paranormal Phenomena - UFOs, ghosts, supernatural, cryptozoology, paranormal investigation, unexplained, Bigfoot, haunting
+  IAB15-6: Physics - Quantum physics, mechanics, relativity, thermodynamics, particle physics, energy, forces, theoretical physics
+  IAB15-7: Space/Astronomy - Space exploration, NASA, planets, stars, galaxies, telescopes, astronauts, cosmic, solar system, rockets
+  IAB15-8: Geography - Maps, countries, continents, topography, cartography, geographic regions, landforms, spatial analysis
+  IAB15-9: Botany - Plant science, botanical gardens, plant biology, flowers, trees, horticulture, photosynthesis, plant species
+  IAB15-10: Weather - Weather forecast, meteorology, climate, storms, temperature, precipitation, hurricanes, weather radar
+
+IAB16: Pets - Content about pet ownership, animal care, veterinary topics, and companion animals
+  IAB16-1: Aquariums - Fish tanks, tropical fish, aquarium supplies, marine aquarium, fishkeeping, reef tanks, aquascaping
+  IAB16-2: Birds - Pet birds, parrots, canaries, bird cages, avian care, bird feeding, bird species, cockatiel, budgies
+  IAB16-3: Cats - Cat care, kittens, cat breeds, cat food, litter box, feline health, cat toys, cat behavior, cat adoption
+  IAB16-4: Dogs - Dog care, puppies, dog breeds, dog food, dog training, canine health, dog toys, dog walking, dog adoption
+  IAB16-5: Large Animals - Horses, farm animals, livestock pets, equine care, goats, pigs, large animal veterinary, hobby farms
+  IAB16-6: Reptiles - Snakes, lizards, turtles, gecko, reptile care, terrariums, reptile habitats, bearded dragons, iguana
+  IAB16-7: Veterinary Medicine - Vet care, animal health, pet vaccinations, animal surgery, veterinarian, pet clinics, animal wellness
+
+IAB17: Sports - Content about athletic activities, sporting events, teams, and competitive recreation
+  IAB17-1: Auto Racing - NASCAR, Formula 1, IndyCar, drag racing, race tracks, motorsports, pit stop, racing drivers, Grand Prix
+  IAB17-2: Baseball - MLB, baseball teams, batting, pitching, World Series, home runs, minor league, baseball stats, diamond
+  IAB17-3: Bicycling - Cycling, bike racing, Tour de France, road cycling, bike gear, bicycle maintenance, cycling routes
+  IAB17-4: Bodybuilding - Muscle building, weightlifting, bodybuilding competitions, physique, protein, gym training, Mr. Olympia
+  IAB17-5: Boxing - Boxing matches, boxers, heavyweight, boxing training, ring, rounds, knockout, boxing promotions, sparring
+  IAB17-6: Canoeing/Kayaking - Canoe trips, kayak adventures, paddling, whitewater, kayak gear, river kayaking, flatwater canoeing
+  IAB17-7: Cheerleading - Cheer squads, cheerleading competitions, stunts, cheer routines, pom-poms, spirit, cheer camp
+  IAB17-8: Climbing - Rock climbing, bouldering, mountaineering, climbing gear, climbing routes, indoor climbing, rappelling
+  IAB17-9: Cricket - Cricket matches, test cricket, ODI, T20, cricket teams, batting, bowling, wickets, cricket World Cup
+  IAB17-10: Figure Skating - Ice skating, figure skating competitions, skating routines, ice dancers, Olympic skating, triple axel
+  IAB17-11: Fly Fishing - Fly rod, fly tying, trout fishing, fly fishing gear, casting techniques, river fishing, waders
+  IAB17-12: Football - NFL, American football, touchdowns, quarterback, Super Bowl, college football, gridiron, fantasy football
+  IAB17-13: Freshwater Fishing - Lake fishing, river fishing, bass fishing, freshwater tackle, fishing rods, bait, angling, catch
+  IAB17-14: Game & Fish - Hunting, wildlife management, game animals, fish and game regulations, hunting licenses, conservation
+  IAB17-15: Golf - Golf courses, golf tournaments, PGA, golf clubs, golf swing, tee time, birdie, golf handicap, driving range
+  IAB17-16: Horse Racing - Thoroughbreds, Kentucky Derby, jockey, racetracks, horse betting, Triple Crown, Preakness, stakes race
+  IAB17-17: Horses - Equestrian, horseback riding, horse care, dressage, show jumping, horse breeds, stables, saddles, riding
+  IAB17-18: Hunting/Shooting - Hunting gear, firearms, target shooting, deer hunting, hunting seasons, ammunition, bow hunting
+  IAB17-19: Inline Skating - Rollerblading, inline skates, roller skating, skate parks, aggressive skating, speed skating
+  IAB17-20: Martial Arts - Karate, judo, taekwondo, MMA, kickboxing, Brazilian jiu-jitsu, kung fu, martial arts training, dojo
+  IAB17-21: Mountain Biking - MTB, trail riding, mountain bike gear, downhill biking, cross-country cycling, bike trails, suspension
+  IAB17-22: NASCAR Racing - NASCAR drivers, stock car racing, Daytona 500, NASCAR standings, sprint cup, pit crews, oval tracks
+  IAB17-23: Olympics - Olympic Games, Olympic athletes, Summer Olympics, Winter Olympics, gold medal, Olympic sports, IOC, records
+  IAB17-24: Paintball - Paintball games, paintball gear, paintball fields, markers, paintball strategy, speedball, woodsball
+  IAB17-25: Power & Motorcycles - Motocross, ATV racing, motorcycle racing, power sports, dirt bikes, off-road racing, superbike
+  IAB17-26: Pro Basketball - NBA, basketball teams, basketball players, March Madness, slam dunk, basketball scores, court, hoops
+  IAB17-27: Pro Ice Hockey - NHL, hockey teams, hockey players, Stanley Cup, ice rink, puck, slap shot, hockey season, power play
+  IAB17-28: Rodeo - Bull riding, rodeo events, bronco busting, roping, barrel racing, cowboys, rodeo circuit, western sports
+  IAB17-29: Rugby - Rugby union, rugby league, rugby matches, scrum, try, rugby World Cup, rugby sevens, tackle, rugby teams
+  IAB17-30: Running/Jogging - Marathon, 5K, running shoes, jogging routes, running training, half marathon, track and field, pace
+  IAB17-31: Sailing - Sailboats, yacht racing, sailing regattas, sailing gear, wind, nautical, America's Cup, cruising, navigation
+  IAB17-32: Saltwater Fishing - Deep sea fishing, ocean fishing, saltwater tackle, charter boats, marlin, tuna, surf fishing
+  IAB17-33: Scuba Diving - Diving gear, underwater diving, dive sites, reef diving, dive certification, PADI, snorkeling, marine life
+  IAB17-34: Skateboarding - Skate parks, skateboard tricks, skateboards, halfpipe, ollie, kickflip, street skating, skate culture
+  IAB17-35: Skiing - Downhill skiing, ski resorts, ski gear, cross-country skiing, ski slopes, powder, chairlift, alpine skiing
+  IAB17-36: Snowboarding - Snowboard tricks, snowboard gear, halfpipe, snowboard resorts, freestyle, terrain park, powder riding
+  IAB17-37: Surfing/Bodyboarding - Surfing waves, surfboards, surf spots, bodyboarding, surf culture, surf gear, surf competitions
+  IAB17-38: Swimming - Swim meets, swimming pools, freestyle, backstroke, swimming training, lap swimming, open water, swim gear
+  IAB17-39: Table Tennis/Ping-Pong - Ping pong, table tennis paddles, table tennis tournaments, table tennis rules, spin, rally
+  IAB17-40: Tennis - Tennis matches, ATP, WTA, Grand Slam, tennis rackets, tennis courts, Wimbledon, serve, tennis rankings
+  IAB17-41: Volleyball - Beach volleyball, indoor volleyball, volleyball tournaments, spike, set, volleyball teams, court, dig
+  IAB17-42: Walking - Hiking, walking trails, pedestrian, walking fitness, trekking, power walking, nature walks, walking shoes
+  IAB17-43: Waterski/Wakeboard - Water skiing, wakeboarding, tow boats, water sports, slalom, wakeboard tricks, lake sports
+  IAB17-44: World Soccer - Football/soccer, FIFA, World Cup, Premier League, La Liga, soccer teams, goals, soccer players, pitch
+
+IAB18: Style & Fashion - Content about clothing, personal style, beauty, and fashion trends
+  IAB18-1: Beauty - Skincare, makeup, cosmetics, beauty tips, beauty products, beauty routines, foundation, lipstick, mascara
+  IAB18-2: Body Art - Tattoos, piercings, body modification, tattoo designs, tattoo artists, henna, body ink, tattoo parlors
+  IAB18-3: Fashion - Fashion trends, runway, designers, fashion shows, haute couture, fashion week, fashion brands, style guides
+  IAB18-4: Jewelry - Rings, necklaces, bracelets, earrings, diamonds, gemstones, fine jewelry, costume jewelry, watches
+  IAB18-5: Clothing - Apparel, dresses, shirts, pants, outfits, wardrobe, casual wear, formal wear, streetwear, fashion retail
+  IAB18-6: Accessories - Handbags, scarves, belts, sunglasses, hats, wallets, fashion accessories, designer bags, shoes
+
+IAB19: Technology & Computing - Content about computers, software, internet, gadgets, and digital technology
+  IAB19-1: 3-D Graphics - 3D modeling, rendering, CGI, 3D animation, 3D software, Blender, Maya, three-dimensional design
+  IAB19-2: Animation - Animated content, motion graphics, cartoon animation, Pixar, anime, animation software, animated films
+  IAB19-3: Antivirus Software - Virus protection, malware removal, security software, Norton, McAfee, antivirus scans, endpoint security
+  IAB19-4: C/C++ - C programming, C++ development, systems programming, compilers, pointers, memory management, low-level code
+  IAB19-5: Cameras & Camcorders - Digital cameras, video cameras, DSLR, mirrorless, camera reviews, camera gear, lenses, action cameras
+  IAB19-6: Cell Phones - Smartphones, mobile phones, iPhone, Android, phone reviews, mobile apps, carriers, phone plans, 5G
+  IAB19-7: Computer Certification - IT certifications, CompTIA, Cisco, MCSE, tech exams, professional certifications, AWS certified
+  IAB19-8: Computer Networking - Networks, routers, switches, LAN, WAN, TCP/IP, Wi-Fi, network administration, firewall, Ethernet
+  IAB19-9: Computer Peripherals - Keyboards, mice, monitors, printers, scanners, USB devices, webcams, external drives, peripherals
+  IAB19-10: Computer Reviews - Hardware reviews, laptop reviews, PC benchmarks, tech reviews, product comparisons, gadget ratings
+  IAB19-11: Data Centers - Server farms, cloud infrastructure, data storage, colocation, server racks, uptime, hosting, data management
+  IAB19-12: Databases - SQL, NoSQL, database management, MySQL, PostgreSQL, Oracle, data modeling, database administration, queries
+  IAB19-13: Desktop Publishing - Page layout, InDesign, typesetting, print design, publishing software, brochures, flyers, DTP
+  IAB19-14: Desktop Video - Video editing, video production, Premiere Pro, Final Cut, video software, post-production, video rendering
+  IAB19-15: Email - Email services, email marketing, inbox, Gmail, Outlook, email security, spam filters, newsletters, SMTP
+  IAB19-16: Graphics Software - Photoshop, Illustrator, graphic design tools, image editing, vector graphics, GIMP, CorelDRAW
+  IAB19-17: Home Video/DVD - DVD players, Blu-ray, home media, video discs, media players, physical media, video collections
+  IAB19-18: Internet Technology - Web technology, internet protocols, cloud computing, APIs, web services, HTTP, DNS, CDN, browsers
+  IAB19-19: Java - Java programming, JVM, Java development, Spring, enterprise Java, Java tutorials, object-oriented, Java SDK
+  IAB19-20: JavaScript - JS programming, Node.js, React, Angular, frontend development, web scripting, npm, TypeScript, Vue
+  IAB19-21: Mac Support - Apple Mac, macOS, MacBook, iMac, Mac troubleshooting, Mac tips, Apple support, Mac software, Finder
+  IAB19-22: MP3/MIDI - Digital audio, MP3 players, music files, audio formats, MIDI controllers, audio conversion, digital music
+  IAB19-23: Net Conferencing - Video conferencing, Zoom, Teams, webinars, online meetings, screen sharing, virtual conferences
+  IAB19-24: Net for Beginners - Internet basics, getting online, web browsing, digital literacy, computer basics, online safety
+  IAB19-25: Network Security - Cybersecurity, firewalls, intrusion detection, VPN, encryption, network protection, data breaches
+  IAB19-26: Palmtops/PDAs - Handheld devices, mobile computing, portable electronics, pocket PC, handheld organizers, mobile gadgets
+  IAB19-27: PC Support - Windows support, PC troubleshooting, tech support, driver updates, system repair, PC maintenance, BIOS
+  IAB19-28: Portable - Portable devices, laptops, tablets, mobile technology, Chromebooks, portable electronics, ultrabooks
+  IAB19-29: Entertainment - Tech entertainment, digital media, streaming devices, media centers, entertainment technology, smart TV
+  IAB19-30: Shareware/Freeware - Free software, open source, trial software, freeware downloads, shareware programs, free tools
+  IAB19-31: Unix - Linux, Unix systems, command line, shell scripting, open source OS, Ubuntu, Fedora, system administration
+  IAB19-32: Visual Basic - VB programming, VBA, Visual Basic development, .NET, Basic scripting, Microsoft development tools
+  IAB19-33: Web Clip Art - Clip art images, web graphics, stock icons, free images, digital illustrations, web design assets
+  IAB19-34: Web Design/HTML - Web development, HTML, CSS, responsive design, website building, frontend, UX design, web templates
+  IAB19-35: Web Search - Search engines, Google, Bing, SEO, search algorithms, web indexing, search results, web crawling
+  IAB19-36: Windows - Microsoft Windows, Windows OS, Windows updates, Windows software, Windows 11, Windows tips, registry, desktop
+
+IAB20: Travel - Content about destinations, travel planning, tourism, and trip-related topics
+  IAB20-1: Adventure Travel - Extreme travel, backpacking, expedition, adventure tours, thrill-seeking, outdoor adventure, trekking
+  IAB20-2: Africa - African destinations, safari, African travel, Serengeti, Cape Town, Kilimanjaro, African culture, wildlife tours
+  IAB20-3: Air Travel - Flights, airlines, airports, boarding passes, frequent flyer, first class, air tickets, aviation, layovers
+  IAB20-4: Australia & New Zealand - Down Under, Sydney, Melbourne, Auckland, Great Barrier Reef, outback, Kiwi, Oceania travel
+  IAB20-5: Bed & Breakfasts - B&B, inns, guesthouses, country lodging, boutique stays, charming accommodations, host homes
+  IAB20-6: Budget Travel - Cheap travel, travel deals, backpacker, hostel, affordable destinations, discount flights, frugal travel
+  IAB20-7: Business Travel - Corporate travel, work trips, business class, travel expense, conference travel, road warrior, per diem
+  IAB20-8: By US Locale - US travel destinations, state tourism, American cities, US national parks, domestic travel, US road trips
+  IAB20-9: Camping - Campgrounds, tent camping, RV camping, outdoor camping, campfire, camping gear, wilderness, glamping
+  IAB20-10: Canada - Canadian travel, Toronto, Vancouver, Banff, Niagara Falls, Canadian Rockies, Ottawa, Quebec, maple
+  IAB20-11: Caribbean - Caribbean islands, tropical vacation, Bahamas, Jamaica, Aruba, cruise ports, beach resorts, island hopping
+  IAB20-12: Cruises - Cruise ships, cruise lines, cruise vacation, Royal Caribbean, Carnival, cruise itinerary, ocean voyage
+  IAB20-13: Eastern Europe - Prague, Budapest, Krakow, Eastern European travel, Balkan destinations, Baltic states, Romania, Sofia
+  IAB20-14: Europe - European travel, EU destinations, Eurotrip, European cities, Schengen, backpacking Europe, European culture
+  IAB20-15: France - Paris, French Riviera, France travel, Eiffel Tower, Provence, Loire Valley, French tourism, Bordeaux
+  IAB20-16: Greece - Greek islands, Athens, Santorini, Mykonos, Greek travel, Mediterranean, Acropolis, Crete, Greek cuisine
+  IAB20-17: Honeymoons/Getaways - Romantic getaway, honeymoon destinations, couples travel, romantic resorts, anniversary trips
+  IAB20-18: Hotels - Hotel booking, hotel reviews, resort, accommodation, Marriott, Hilton, hotel deals, luxury hotels, check-in
+  IAB20-19: Italy - Rome, Florence, Venice, Italian travel, Tuscany, Amalfi Coast, Italian tourism, Colosseum, Milan, Sicily
+  IAB20-20: Japan - Tokyo, Kyoto, Japanese travel, Mount Fuji, cherry blossoms, Japanese tourism, bullet train, temples, Osaka
+  IAB20-21: Mexico & Central America - Cancun, Mexico City, Costa Rica, Guatemala, Mayan ruins, Mexican resorts, Central American travel
+  IAB20-22: National Parks - Park visits, Yellowstone, Grand Canyon, Yosemite, park trails, national park camping, nature preserves
+  IAB20-23: South America - Machu Picchu, Rio de Janeiro, Buenos Aires, Patagonia, Amazon, South American travel, Andes, Lima
+  IAB20-24: Spas - Spa resorts, wellness retreats, hot springs, spa treatments, relaxation, massage, spa vacations, thermal baths
+  IAB20-25: Theme Parks - Amusement parks, Disney, Universal Studios, roller coasters, theme park tickets, water parks, attractions
+  IAB20-26: Traveling with Kids - Family travel, kid-friendly destinations, family vacations, travel tips for families, strollers
+  IAB20-27: United Kingdom - London, England, Scotland, Wales, British travel, Buckingham Palace, UK tourism, Edinburgh, Big Ben
+
+IAB21: Real Estate - Content about property, housing, real estate markets, and property transactions
+  IAB21-1: Apartments - Apartment rentals, apartment listings, renting, lease, studio, loft, apartment complexes, rent prices
+  IAB21-2: Architects - Architecture firms, building design, architectural plans, architects, blueprints, structural design, drafting
+  IAB21-3: Buying/Selling Homes - Home buying, home selling, real estate agents, house listings, mortgages, open houses, closing costs
+
+IAB22: Shopping - Content about retail, purchasing, deals, and consumer commerce
+  IAB22-1: Contests & Freebies - Giveaways, sweepstakes, free samples, contests, prize draws, promotional offers, freebies
+  IAB22-2: Couponing - Coupon codes, discount coupons, promo codes, deal hunting, coupon clipping, savings, cashback, vouchers
+  IAB22-3: Comparison - Price comparison, product comparison, comparison shopping, side-by-side, specs, feature comparison, reviews
+  IAB22-4: Engines - Shopping search engines, product search, price aggregators, shopping portals, deal finders, retail search
+
+IAB23: Religion & Spirituality - Content about faith, religious traditions, spiritual practices, and belief systems
+  IAB23-1: Alternative Religions - New age, Scientology, Baha'i, new religious movements, unconventional faiths, spiritual groups
+  IAB23-2: Atheism/Agnosticism - Non-belief, secularism, skepticism, freethought, humanism, agnostic philosophy, atheist community
+  IAB23-3: Buddhism - Buddhist teachings, meditation, dharma, Zen, Theravada, Mahayana, Buddha, mindfulness, enlightenment
+  IAB23-4: Catholicism - Catholic Church, Pope, Vatican, Mass, saints, Catholic traditions, sacraments, Catholic faith, parish
+  IAB23-5: Christianity - Christian faith, Bible, Jesus, church, gospel, evangelical, Protestant, worship, sermons, Christian living
+  IAB23-6: Hinduism - Hindu religion, Vedas, temples, deities, Diwali, karma, yoga philosophy, Sanskrit, Hindu traditions
+  IAB23-7: Islam - Muslim faith, Quran, mosque, Ramadan, Hajj, Islamic teachings, Prophet Muhammad, halal, Islamic culture
+  IAB23-8: Judaism - Jewish faith, Torah, synagogue, kosher, Hanukkah, Passover, rabbi, Jewish traditions, Shabbat, Hebrew
+  IAB23-9: Latter-Day Saints - Mormon faith, LDS Church, Book of Mormon, Salt Lake City, LDS temples, missionary, LDS teachings
+  IAB23-10: Pagan/Wiccan - Paganism, Wicca, witchcraft, solstice, nature worship, rituals, spells, coven, earth-based spirituality
+
+IAB24: Uncategorized - Content that does not fit into any other defined IAB category or cannot be classified
+  (No subcategories)
+
+IAB25: Non-Standard Content - Content that is non-standard, potentially unsafe, or unsuitable for general advertising
+  IAB25-1: Unmoderated UGC - Unmoderated user-generated content, unreviewed posts, open forums, unfiltered comments, unchecked uploads
+  IAB25-2: Extreme Graphic/Explicit Violence - Graphic violence, gore, violent imagery, brutal content, explicit violent media
+  IAB25-3: Pornography - Adult content, explicit material, sexually explicit, XXX, adult websites, pornographic media
+  IAB25-4: Profane Content - Profanity, vulgar language, obscene content, explicit language, swearing, offensive words
+  IAB25-5: Hate Content - Hate speech, extremism, bigotry, discrimination, racist content, xenophobia, intolerance, supremacist
+  IAB25-6: Under Construction - Placeholder pages, coming soon, site under construction, parked domains, empty pages, not yet live
+  IAB25-7: Incentivized - Incentivized traffic, paid clicks, reward-based content, click farms, incentivized installs, paid engagement
+
+IAB26: Illegal Content - Content related to illegal activities, piracy, and malicious software
+  IAB26-1: Illegal Content - Illegal activities, unlawful content, criminal content, illicit services, illegal trade, contraband
+  IAB26-2: Warez - Pirated software, cracked programs, serial keys, software piracy, illegal downloads, keygen, nulled software
+  IAB26-3: Spyware/Malware - Malicious software, spyware programs, trojans, ransomware, adware, computer viruses, exploits
+  IAB26-4: Copyright Infringement - Pirated media, illegal streaming, torrent sites, copyright violation, stolen content, DMCA
